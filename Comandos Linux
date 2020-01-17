@@ -1,0 +1,14 @@
+COMANDOS TERMINAL
+
+ABRIR INTERFACE GRAFICA XAMPP
+cd /opt/lampp
+sudo ./manager-linux-x64.run
+
+ACTUALIZAR SISTEMA
+sudo apt-get upgrade
+sudo apt-get update
+
+OBTENER TODOS LOS PERMISOS PARA UN ARCHIVO
+sudo chmod 777 httpd.conf
+
+
