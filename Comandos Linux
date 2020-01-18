@@ -11,4 +11,10 @@ sudo apt-get update
 OBTENER TODOS LOS PERMISOS PARA UN ARCHIVO
 sudo chmod 777 httpd.conf
 
+INSTALAR PAQUETES .DEB
+sudo apt install gdebi
+sudo gdebi package.deb
+
+CAMBIAR PERMISOS DE UN ARCHIVO O CARPETA
+sudo chmod 777 file.run
 
