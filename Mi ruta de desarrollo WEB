@@ -1,0 +1,14 @@
+PARA METERLE A LA PAGINA WEB (GATOTAREAS)
+-Verificacion de los formularios mediante JavaSCript, no mediante redirecciones php, para poder lograr una pagina mas limpia y sin tantas subpaginas de errores, mas compacto
+-Ponerle un Footer constante con informacion de ayuda y contacto (incluso incluir ahi el numero de whatsapp de contacto)  "mas es menos"
+
+
+RUTA DE APRENDIZAJE 2020
+-HTML
+-CSS Responsive (Bootstrap, Materialize)
+-Crear responsividad para moviles
+-SASS, Flexbox, Grid (Ecosistema de preprocesado de CSS y modelos de maquetación)
+-JavaScript (Node.js, Angular, React.js, Vue.js, jQuery)
+-Sitios Web SPA (nunca recarga la pagina :0)
+-PHP (para backend)
+
